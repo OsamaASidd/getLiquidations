@@ -1,6 +1,6 @@
 # getLiquidations
 
-A micro Flask application designed to fetch **liquidation data** from marketplaces in real-time. This tool functions as a **data scraper** (using Selenium) and extracts key liquidation metrics as per the real-time liquidation map.
+A micro Flask application designed to fetch **liquidation data** from marketplace (Coinank) in real-time. This tool functions as a **data scraper** (using Selenium) and extracts key liquidation metrics as per the real-time liquidation map.
 
 ## Key Features
 
