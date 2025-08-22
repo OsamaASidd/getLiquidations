@@ -1,0 +1,128 @@
+[
+  {
+    "symbol": "ARBUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "757.77K",
+    "match": false,
+    "signal_time": "2025-08-22 19:20:00",
+    "latest_price": 0.5973
+  },
+  {
+    "symbol": "ENAUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "25.25K",
+    "match": false,
+    "signal_time": "2025-08-22 15:10:00",
+    "latest_price": 0.73
+  },
+  {
+    "symbol": "NEARUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "20.71K",
+    "match": false,
+    "signal_time": "2025-08-22 15:40:00",
+    "latest_price": 2.686
+  },
+  {
+    "symbol": "TREEUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "20.48K",
+    "match": false,
+    "signal_time": "2025-08-22 15:30:00",
+    "latest_price": 0.34465
+  },
+  {
+    "symbol": "XRPUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "40.94K",
+    "match": false,
+    "signal_time": "2025-08-22 19:25:00",
+    "latest_price": 3.0941
+  },
+  {
+    "symbol": "ARBUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "32.69K",
+    "match": false,
+    "signal_time": "2025-08-22 19:20:00",
+    "latest_price": 0.5973
+  },
+  {
+    "symbol": "SUIUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "30.73K",
+    "match": false,
+    "signal_time": "2025-08-22 15:25:00",
+    "latest_price": 3.7307
+  },
+  {
+    "symbol": "BANANAUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "21.00K",
+    "match": false,
+    "signal_time": "2025-08-22 15:35:00",
+    "latest_price": 24.498
+  },
+  {
+    "symbol": "TRBUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "20.84K",
+    "match": false,
+    "signal_time": "2025-08-22 15:35:00",
+    "latest_price": 37.95
+  },
+  {
+    "symbol": "ARBUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "256.40K",
+    "match": false,
+    "signal_time": "2025-08-22 19:20:00",
+    "latest_price": 0.5975
+  },
+  {
+    "symbol": "ARBUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "39.44K",
+    "match": false,
+    "signal_time": "2025-08-22 19:20:00",
+    "latest_price": 0.5975
+  },
+  {
+    "symbol": "USELESSUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "23.65K",
+    "match": false,
+    "signal_time": "2025-08-22 18:30:00",
+    "latest_price": 0.2641
+  },
+  {
+    "symbol": "OPUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "31.85K",
+    "match": false,
+    "signal_time": "2025-08-22 19:20:00",
+    "latest_price": 0.7984
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "liquidation_signal": "long",
+    "indicator_signal": "short",
+    "liquidation_value": "75.38K",
+    "match": false,
+    "signal_time": "2025-08-22 15:35:00",
+    "latest_price": 0.23901
+  }
+]

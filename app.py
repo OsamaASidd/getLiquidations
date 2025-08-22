@@ -21,7 +21,6 @@ def hello():
 
 @app.route("/liquidations")
 def get_liquidations():
-    # Set up the WebDriver
     driver = webdriver.Chrome()
     driver.maximize_window()
     driver.get("https://coinank.com/liquidation")
@@ -32,7 +31,7 @@ def get_liquidations():
 
         real_time_section = driver.find_element(By.CSS_SELECTOR, ".order-box")
 
-        dropdowns = real_time_section.find_elements(By.CSS_SELECTOR, ".ant-select.ant-select-enabled")
+        dropdowns = real_time_section.find_elements(By.CSS_SELECTOR, ".ant-select.ant-select")
 
         print("Found dropdowns:", len(dropdowns))
 
@@ -43,10 +42,10 @@ def get_liquidations():
 
         amount_dropdown.click()
 
-        wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, ".ant-select-dropdown-menu")))
+        wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, ".ant-select-dropdown")))
 
-        dropdown_menu = driver.find_element(By.CSS_SELECTOR, ".ant-select-dropdown-menu")
-        amount_options = dropdown_menu.find_elements(By.CSS_SELECTOR, ".ant-select-dropdown-menu-item")
+        dropdown_menu = driver.find_element(By.CSS_SELECTOR, ".ant-select-dropdown")
+        amount_options = dropdown_menu.find_elements(By.CSS_SELECTOR, ".ant-select-item")
 
         print("Number of options in 'Amount' dropdown:", len(amount_options))
 
